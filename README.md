@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - Database: Mysql, Postgres, Mongodb
 - Cache: Redis
 - Queue: Redis, Rabbitmq, Kafka
+- Search: Elasticsearch
 - Others: Docker, Jenskin
 
 
