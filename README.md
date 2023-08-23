@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - Cache: Redis
 - Queue: Redis, Rabbitmq, Kafka
 - Search: Elasticsearch
-- Others: Docker, Jenskin, OOP, data structures and algorithms
-- Design patterns, clean code.
+- Others:
+    + Docker, Jenskin, OOP, data structures and algorithms
+    + Design patterns, clean code.
+    + Jenkins, CI/CD.
 ---
