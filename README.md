@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Database: Mysql, Postgres, Mongodb
 - Cache: Redis
 - Queue: Redis, Rabbitmq, Kafka
-- Search: Elasticsearch
+- Search engine: Elasticsearch
 - Others:
     + Docker, Jenskin, OOP, data structures and algorithms
     + Design patterns, clean code.
