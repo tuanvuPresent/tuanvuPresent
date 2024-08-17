@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I love optimizing databases for performance and crafting efficient solutions to complex problems, always aiming for clean, maintainable code. :two_hearts:
 
 ---
-### Tech
+### Tech Stack
 
 - Language: Python, Php, Javascript
 - Framework: Django, Flask, Fastapi, Laravel, Vue
